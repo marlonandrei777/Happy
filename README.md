@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=22becf&labelColor=000000"></a>
+  <a href="https://github.com/marlonandrei777/Happy-Web/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=22becf&labelColor=000000"></a>
 </p>
 
 ![](.github/happy.png)
